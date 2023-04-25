@@ -13,5 +13,14 @@ body {
     justify-content: flex-end;
     
     
-    
     }
+
+hela {
+
+    @mixin containerSize {
+
+        width: 500vw;
+        height: 1000vh;
+
+    }
+}
